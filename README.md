@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="Sebastian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianPuchet&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+<img align="left" alt="Sebastian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianPuchet&show_icons=true&hide_border=true&count_private=true" />
 
 [instagram]: https://www.instagram.com/sebapuchet/
 [linkedin]: https://www.linkedin.com/in/sebastianpuchet/

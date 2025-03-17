@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there, I'm Sebastian! 👋
 
-<!--
-**SebastianPuchet/SebastianPuchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Front-End Engineer at [Zuub](https://www.zuub.com)** specializing in **enterprise-scale Angular** applications. I’m passionate about creating **high-performance, maintainable** web solutions and exploring **React** & **Next.js** to stay at the forefront of modern frontend development.
 
-Here are some ideas to get you started:
+## What I Do
+- **Architect** robust Angular applications at Zuub
+- **Optimize** for performance and scalability in complex front-end ecosystems
+- **Experiment** with React & Next.js for performance and scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nestjs,tailwind,nodejs,docker,css,sentry" />
+</p>
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sebastianpuchet/)

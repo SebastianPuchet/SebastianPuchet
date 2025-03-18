@@ -1,6 +1,6 @@
 # Hey there, I'm Sebastian! 👋
 
-**Senior Front-End Engineer at [Zuub](https://www.zuub.com)** specializing in **enterprise-scale Angular** applications. I’m passionate about creating **high-performance, maintainable** web solutions and exploring **React** & **Next.js** to stay at the forefront of modern frontend development.
+**Senior Software Engineer at [Zuub](https://www.zuub.com)** specializing in **enterprise-scale Angular** applications. I’m passionate about creating **high-performance, maintainable** web solutions and exploring **React** & **Next.js** to stay at the forefront of modern frontend development.
 
 ## What I Do
 - **Architect** robust Angular applications at Zuub

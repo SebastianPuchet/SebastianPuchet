@@ -9,7 +9,7 @@
 
 ## Core Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nestjs,tailwind,nodejs,docker,css,sentry" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,astro,nestjs,tailwind,nodejs,docker,css,sentry" />
 </p>
 
 ## Connect With Me

@@ -1,11 +1,15 @@
 # Hey there, I'm Sebastian! 👋
 
-**Senior Software Engineer at [Zuub](https://www.zuub.com)** specializing in **enterprise-scale Angular** applications. I’m passionate about creating **high-performance, maintainable** web solutions and exploring **React** & **Next.js** to stay at the forefront of modern frontend development.
+**Senior Software Engineer at [Zuub](https://www.zuub.com)** specializing in **enterprise-scale Angular** applications. I’m passionate about architecting **high-performance, maintainable** web solutions, while actively exploring **React** & **Next.js** to push the boundaries of modern frontend ecosystems.
 
 ## What I Do
-- **Architect** robust Angular applications at Zuub
-- **Optimize** for performance and scalability in complex front-end ecosystems
-- **Experiment** with React & Next.js for performance and scalability
+- **Architect** scalable Angular applications with a strong focus on performance and maintainability.
+- **Optimize** frontend ecosystems with React, Next.js, TypeScript, and TailwindCSS.
+- **Implement** robust state management with Redux, NgRx, and RxJS.
+- Ensure quality through comprehensive testing with Jest, Cypress, Mocha, and Karma.
+- Integrate APIs seamlessly with REST and GraphQL, including payment solutions like Stripe.
+
+Building impactful, scalable applications that drive business value is my core mission.
 
 ## Core Skills
 <p align="left">
